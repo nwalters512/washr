@@ -3,11 +3,11 @@ package com.nwalters.washr.models;
 import java.util.List;
 
 public class Location {
-    String name;
+    public String name;
     String code;
     boolean networked;
     String company;
-    List<Room> rooms;
+    public List<Room> rooms;
 
     @Override
     public String toString() {

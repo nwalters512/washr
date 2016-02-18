@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Room {
     int id;
-    String name;
+    public String name;
     List<Machine> machines;
 
     @Override

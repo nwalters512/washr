@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Washr</string>
+    <string name="activity_location_list">Select Location</string>
+    <string name="activity_rooms">Rooms</string>
 </resources>
